@@ -45,7 +45,7 @@ body {
 .footer-logo {
   float: left;
   font-size: 32px;
-  font-family: "Nabla";
+  font-family: "Nabla", "Major Mono Display";
 }
 
 .footer-nav {
